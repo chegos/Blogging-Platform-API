@@ -195,7 +195,6 @@ GET /posts?term=tech
 ## 👨‍💻 Autor
 
 Desenvolvido por **Luis Rodrigues**
-https://roadmap.sh/projects/blogging-platform-api
 
 ---
 
